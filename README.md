@@ -1,5 +1,6 @@
 # Grasp
-GUI of ABB robot bin picking for industrial object.
+GUI demo of robot bin picking project for industrial objects.
+This repository is just a showcase of the original poject, which source code would not open beacase of business security.
 
 
 ## GUI Demo:
